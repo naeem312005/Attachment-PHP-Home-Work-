@@ -19,14 +19,14 @@ if (isset($_POST['update'])) {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Edit Student</title>
+    <title>Edit Task</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     	<link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <div class="container col-6 bg-light mt-5 p-5">
-    <h2 class="mb-4 text-center">Edit Student</h2>
+    <h2 class="mb-4 text-center">Edit Task</h2>
     <form method="POST" >
         <div class="mb-3">
            
