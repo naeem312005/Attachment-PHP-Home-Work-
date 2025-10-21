@@ -23,7 +23,7 @@ $sql_table = "CREATE TABLE IF NOT EXISTS users(
     name VARCHAR(50) NOT NULL,
     email VARCHAR(100) UNIQUE NOT NULL,
     password VARCHAR(100) NOT NULL, 
-    imge VARCHAR(100) NOT NULL, 
+    image VARCHAR(100) NOT NULL, 
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 
 )";
